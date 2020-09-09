@@ -1,4 +1,6 @@
 # Discord.js-ReactionClickEvent
+![예시 이미지](https://github.com/NoBrain0917/Discord.js-ReactionClickEvent/blob/master/ex.gif?raw=true)
+<br>
 Discord.js 이모지 클릭 이벤트
 
 ### 예제
